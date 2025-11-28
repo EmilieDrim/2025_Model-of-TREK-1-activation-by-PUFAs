@@ -11,4 +11,3 @@ The repository is organized into 3 main components:
 3)	Python simulation script “2025_04_V4e_Simu_strong_low_PUFAs_effect_EN.ipyn” : the core script used to simulate the biophysical behavior of TREK-1. Running the script in a Python console will generate datasets that are similar, though not identical, because the model incorporates probabilistic elements. For reproducibility, we also provide in the CSV file “V4e_Simu_PUFA_strong_low.csv” the exact dataset used for Figure 7 in the manuscript submission.
 
 Using this script, we propose a model that describes TREK-1 activation and its variability, by at least 2 groups of PUFAs: strong and weak activators.
-<img width="523" height="420" alt="image" src="https://github.com/user-attachments/assets/70d3c7fb-b25d-4099-969f-9d19b190a887" />
