@@ -1,6 +1,8 @@
-README
+**README**
 
-This repository contains the Python code and supporting material used to generate the simulations presented in Figure 7 of our submitted manuscript: “Gating shift to an ohmic mode of TREK-1 channel induced by docosahexaenoic acid”.
+This repository contains the Python code and supporting material used to generate the simulations presented in **Figure 7** of our submitted manuscript: **“Gating shift to an ohmic mode of TREK-1 channel induced by docosahexaenoic acid”.**
+
+**The code has been updated according to the recommendations of the reviewers of the Biophysical Journal.**
 
 Figure 7, titled “Mathematical model to explain TREK-1 channels recruitment by PUFAs”, is based directly on the computational approach implemented here. This repository allows readers to examine the exact workflow we used to model and simulate the data.
 We show that the variability of TREK-1 activation by PUFAs is an intrinsic property of the channel’s behavior, which depends on its initial level of activity. In our model, this variability can emerge from fluctuations in the channel’s open probability, offering a mechanistic explanation for the heterogeneity observed experimentally.
